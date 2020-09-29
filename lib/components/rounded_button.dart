@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EnterButton extends StatelessWidget {
-  EnterButton(
+class RoundedButton extends StatelessWidget {
+  RoundedButton(
       {this.color,
       this.borderRadius,
       this.elevation,

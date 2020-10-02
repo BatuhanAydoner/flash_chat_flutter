@@ -13,10 +13,7 @@ const kMessageTextFieldDecoration = InputDecoration(
 );
 
 const kMessageContainerDecoration = BoxDecoration(
-  border: Border(
-    top: BorderSide(color: Colors.lightBlueAccent, width: 2.0),
-  ),
-);
+    border: Border(top: BorderSide(color: Colors.lightBlueAccent, width: 2.0)));
 
 const kTextFieldDecoration = InputDecoration(
   hintText: "",

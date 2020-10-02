@@ -1,6 +1,21 @@
-# flash_chat_flutter
+# Flash Chat Flutter ⚡️
 
-A new Flutter application.
+<img src="https://github.com/BatuhanAydonerDev/flash_chat_flutter/blob/master/flash_chat_gif.gif?raw=true" width="350"/>
+
+## My Goal
+The objective of this app is to learn how to incorporate Firebase into our Flutter apps. I used Firebase Cloud Firestore as well as the Firebase authentication package to equip my app with a cloud-based NoSQL database and secure authentication methods.
+
+## What I Created
+I built a modern messaging/chat app which users can sign up and log in to chat.
+
+## What You''ll Find In This Project
+* How to incorporate Firebase into a Flutter projects.
+* How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+* How to use Firebase authentication to register and sign in users.
+* How to create beautiful animations using the Flutter Hero widget.
+* How to create custom animations using Flutter's animation controller.
+* How Streams work.
+* Listviews to build scrolling views.
 
 ## Getting Started
 
